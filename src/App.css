@@ -1,0 +1,25 @@
+@import url("https://fonts.googleapis.com/css2?family=Babylonica&family=Cedarville+Cursive&family=Dancing+Script&family=Fuggles&family=Merriweather:ital,wght@1,300&family=Montserrat&family=Rubik+Glitch&family=Sacramento&family=Sansita+Swashed&display=swap");
+
+:root {
+  --red: #d01c28;
+  --gray: #2e2e2e;
+}
+* {
+  margin: 0;
+}
+
+body {
+  font-family: "Poppins", sans-serif;
+}
+.container{
+  margin: 0 auto;
+  max-width: 1280px;
+}
+.main{
+  
+  display: flex;
+  flex-direction: column;
+margin-top: 72px;
+ 
+  
+}

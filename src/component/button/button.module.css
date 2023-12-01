@@ -1,0 +1,28 @@
+.button {
+  padding: 18px 10px;
+  background-color: black;
+  color: white;
+  border-radius: 5px;
+  min-width: 220px;
+  display: flex;
+  align-items: center;
+  font-size: 16px;
+  gap: 8px;
+  justify-content: center;
+  cursor: pointer;
+}
+
+.button1 {
+  padding: 18px 10px;
+  border: 1px solid black;
+  font-size: 16px;
+  color: black;
+  border-radius: 5px;
+  min-width: 220px;
+  display: flex;
+  align-items: center;
+  width: 100%;
+  gap: 8px;
+  justify-content: center;
+  cursor: pointer;
+}
